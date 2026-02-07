@@ -1,12 +1,12 @@
-# 🛒 E-commerce Dataset – Exploratory Data Analysis (EDA)
+#  E-commerce Dataset – Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+##  Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on an e-commerce dataset using **Microsoft Excel**.  
 The goal is to clean raw data, analyze sales performance, customer behavior, and operational metrics, and present insights through dashboards and pivot-based analysis.
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 - Microsoft Excel  
 - Excel Formulas  
 - Pivot Tables & Pivot Charts  
@@ -14,7 +14,7 @@ The goal is to clean raw data, analyze sales performance, customer behavior, and
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 - Monthly **Orders vs Sales** trend analysis  
 - **Gender-wise** sales distribution  
 - **Age group vs gender** purchasing behavior  
@@ -25,28 +25,13 @@ The goal is to clean raw data, analyze sales performance, customer behavior, and
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 ![E-commerce EDA Dashboard](ecommerce_eda_dashboard.image.png)
 ---
 
-## 📂 Project Structure
-ecommerce-dataset-eda/
-│
-├── data/
-│ └── eCommerce_raw_dataset.xlsx
-│
-├── cleaned_data/
-│ └── Cleaned_dataset.xlsx
-│
-├── images/
-│ └── ecommerce_eda_dashboard.png
-│
-└── README.md
-
-
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Majority of sales come from **female customers**
 - **Adults** contribute the highest share of purchases
 - **Maharashtra, Karnataka, and Uttar Pradesh** are top-performing states
@@ -56,7 +41,7 @@ ecommerce-dataset-eda/
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Hands-on experience in **real-world data cleaning**
 - Strong understanding of **pivot tables and dashboards**
 - Ability to derive **business insights from raw data**
@@ -64,7 +49,7 @@ ecommerce-dataset-eda/
 
 ---
 
-## 👤 Author
+##  Author
 **Shreya Chanore**  
 - GitHub: https://github.com/shreyachanore  
 - LinkedIn: www.linkedin.com/in/shreyachanore
