@@ -50,4 +50,4 @@ ecommerce-data-analysis-excel/
 ##  Author
 **Shreya Chanore**  
 - GitHub: https://github.com/shreyachanore  
-- LinkedIn: https://linkedin.com/in/shreya-chanore-5b1105299
+- LinkedIn: https://linkedin.com/in/shreyachanore
