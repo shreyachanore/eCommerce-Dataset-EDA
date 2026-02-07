@@ -26,8 +26,7 @@ The goal is to clean raw data, analyze sales performance, customer behavior, and
 ---
 
 ## 📈 Dashboard Preview
-![E-commerce EDA Dashboard](images/ecommerce_eda_dashboard.png)
-
+![E-commerce EDA Dashboard](ecommerce_eda_dashboard.image.png)
 ---
 
 ## 📂 Project Structure
